@@ -20,8 +20,8 @@
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ping_test.git
-   cd ping_test
+   git clone https://github.com/minaramez/Ping-Test-Troubleshooter.git
+   cd Ping-Test-Troubleshooter
    ```
 2. Ensure the script has execute permissions:
    ```bash
